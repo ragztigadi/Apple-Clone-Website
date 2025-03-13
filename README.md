@@ -12,4 +12,3 @@ Progate New Year Bootcamp 2021 Team project. We managed to finish the project in
 - Setidaknya satu animasi ✔
 - Desain responsif untuk smartphone dan tablet ✔
 
-finished in 3 days.
